@@ -1,0 +1,12 @@
+[
+    {
+        "name": "project-standards",
+        "pattern": "cerk-(\\w+)-(\\w+)-(sys|proc|exp|del)",
+        "filename": "file.txt"
+    },
+    {
+        "name": "lorem-ipsum",
+        "pattern": "venenatis",
+        "filename": "otherFile.txt"
+    }
+]
