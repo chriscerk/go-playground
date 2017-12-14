@@ -8,5 +8,10 @@
         "name": "lorem-ipsum",
         "pattern": "venenatis",
         "filename": "otherFile.txt"
+    },
+    {
+        "name": "hi-finder",
+        "pattern": "hi",
+        "filename": "all"
     }
 ]
